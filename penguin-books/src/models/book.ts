@@ -13,6 +13,6 @@ export type Info = {
 };
 
 export type BookResponse = {
-  info: Info;
-  results: Book[];
+  numFound: number;
+  docs: Book[];
 };

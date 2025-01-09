@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "start": "npm run build && react-scripts start",
     "test:pro": "jest --watchAll --coverage --watchAll=false --passWithNoTests"
   },
   "dependencies": {

@@ -1,5 +1,5 @@
 .card-container {
-  width: 200px;
+  /* width: 200px; */ /* intente que se alinearan en filas pero no lo consigo */
   background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 8px;
